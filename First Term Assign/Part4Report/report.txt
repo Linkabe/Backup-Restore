@@ -1,0 +1,149 @@
+
+Todays date Is 2018-12-16 19:17:46.963764
+=================================================
+                 FoldersTobackup          
+=================================================
+ Located:./FoldersTobackup
+List of Files and Folders in FoldersTobackup That will be backed up!
+       Backup1
+       jygfd.txt
+       test compare.txt
+Total Size of FoldersTobackup file: 41b
+Total Size of FoldersTobackup file: 101b
+Total Size of FoldersTobackup file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+=================================================
+       Backup Folder Name: BackupFolder
+=================================================
+ Located: ./BackupFolder/
+<filecmp.dircmp object at 0x02C628B0>
+Total Size of BackupFolder file: 41b
+Total Size of BackupFolder file: 101b
+Total Size of BackupFolder file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+Todays date Is 2018-12-16 19:19:52.255382
+=================================================
+                 FoldersTobackup          
+=================================================
+ Located:./FoldersTobackup
+List of Files and Folders in FoldersTobackup That will be backed up!
+       Backup1
+       jygfd.txt
+       test compare.txt
+Total Size of FoldersTobackup file: 41b
+Total Size of FoldersTobackup file: 101b
+Total Size of FoldersTobackup file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+=================================================
+       Backup Folder Name: BackupFolder
+=================================================
+ Located: ./BackupFolder/
+Todays date Is 2018-12-16 19:20:38.784683
+=================================================
+                 FoldersTobackup          
+=================================================
+ Located:./FoldersTobackup
+List of Files and Folders in FoldersTobackup That will be backed up!
+       Backup1
+       jygfd.txt
+       test compare.txt
+Total Size of FoldersTobackup file: 41b
+Total Size of FoldersTobackup file: 101b
+Total Size of FoldersTobackup file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+=================================================
+       Backup Folder Name: BackupFolder
+=================================================
+ Located: ./BackupFolder/
+NoneTotal Size of BackupFolder file: 41b
+Total Size of BackupFolder file: 101b
+Total Size of BackupFolder file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+Todays date Is 2018-12-16 19:22:20.875520
+=================================================
+                 FoldersTobackup          
+=================================================
+ Located:./FoldersTobackup
+List of Files and Folders in FoldersTobackup That will be backed up!
+       Backup1
+       jygfd.txt
+       test compare.txt
+Total Size of FoldersTobackup file: 41b
+Total Size of FoldersTobackup file: 101b
+Total Size of FoldersTobackup file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+=================================================
+       Backup Folder Name: BackupFolder
+=================================================
+ Located: ./BackupFolder/
+<filecmp.dircmp object at 0x0158ABD0>Total Size of BackupFolder file: 41b
+Total Size of BackupFolder file: 101b
+Total Size of BackupFolder file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+Todays date Is 2018-12-16 19:23:37.810076
+=================================================
+                 FoldersTobackup          
+=================================================
+ Located:./FoldersTobackup
+List of Files and Folders in FoldersTobackup That will be backed up!
+       Backup1
+       jygfd.txt
+       test compare.txt
+Total Size of FoldersTobackup file: 41b
+Total Size of FoldersTobackup file: 101b
+Total Size of FoldersTobackup file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+=================================================
+       Backup Folder Name: BackupFolder
+=================================================
+ Located: ./BackupFolder/
+Total Size of BackupFolder file: 41b
+Total Size of BackupFolder file: 101b
+Total Size of BackupFolder file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+FalseTodays date Is 2018-12-28 14:48:07.563961
+=================================================
+                 FoldersTobackup          
+=================================================
+ Located:./FoldersTobackup
+List of Files and Folders in FoldersTobackup That will be backed up!
+       Backup1
+       jygfd.txt
+       test compare.txt
+Total Size of FoldersTobackup file: 41b
+Total Size of FoldersTobackup file: 101b
+Total Size of FoldersTobackup file: 232b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
+=================================================
+       Backup Folder Name: BackupFolder
+=================================================
+ Located: ./BackupFolder/
+Total Size of BackupFolder file: 41b
+Total Size of BackupFolder file: 101b
+Total Size of BackupFolder file: 232b
+Total Size of BackupFolder file: 273b
+Total Size of BackupFolder file: 333b
+Total Size of BackupFolder file: 464b
+         Date accessed Last 2018-12-12
+         Date modified Last 2018-12-12
+
